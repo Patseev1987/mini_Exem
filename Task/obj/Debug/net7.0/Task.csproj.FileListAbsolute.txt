@@ -1,0 +1,15 @@
+/Users/bogdanpatseev/Documents/mini_exem/Task/bin/Debug/net7.0/Task
+/Users/bogdanpatseev/Documents/mini_exem/Task/bin/Debug/net7.0/Task.deps.json
+/Users/bogdanpatseev/Documents/mini_exem/Task/bin/Debug/net7.0/Task.runtimeconfig.json
+/Users/bogdanpatseev/Documents/mini_exem/Task/bin/Debug/net7.0/Task.dll
+/Users/bogdanpatseev/Documents/mini_exem/Task/bin/Debug/net7.0/Task.pdb
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/Task.csproj.AssemblyReference.cache
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/Task.AssemblyInfoInputs.cache
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/Task.AssemblyInfo.cs
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/Task.csproj.CoreCompileInputs.cache
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/Task.dll
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/refint/Task.dll
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/Task.pdb
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/Task.genruntimeconfig.cache
+/Users/bogdanpatseev/Documents/mini_exem/Task/obj/Debug/net7.0/ref/Task.dll
